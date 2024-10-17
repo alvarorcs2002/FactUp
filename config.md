@@ -1,3 +1,3 @@
-!(./Imagenes/CreacionRepo.png "Creacion del repositorio")
+![Creacion del repositorio](./Imagenes/CreacionRepo.png)
 
-!(./Imagenes/ConfigSSH.png "Configuracion ssh de github")
+!["Configuracion ssh de github"](./Imagenes/ConfigSSH.png)

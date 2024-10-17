@@ -18,3 +18,6 @@ Por lo que los objetivos de chorely son :
 
 - Imponer una penalizacion a aquellos usuarios que no realicen sus tareas o que la realicen fuera del plazo establecido (esta penalizacion será acordada por todos los miembros del piso compartido )
 
+## Enlace a los archivos de configuracion 
+
+[Archivos de configuracion](./config.md)
