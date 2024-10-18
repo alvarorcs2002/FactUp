@@ -2,21 +2,22 @@
 
 ## Descipcion del problema 
 
-Como estudainte que vive en un piso compartido , se lo dificil que puede llegar a ser la organizacion para realizar las tareas del hogar que puede ocasionar conflictos y hasta discusiones . Algunas de las pricipales dificultades son : 
+Gestión ineficiente y falta de previsibilidad en los gastos del hogar relacionados con las facturas de servicios básicos (agua, luz, gas, etc.).
 
-Distribución desigual de tareas: Sin un sistema claro y equitativo, es común que ciertas personas acaben realizando más tareas que otras, lo que genera resentimiento y tensiones entre los miembros del hogar.
+Descripción:
 
-Falta de seguimiento: Muchas veces, las tareas asignadas o acordadas no se cumplen a tiempo o no se realizan en absoluto, debido a la falta de un sistema que permita hacer seguimiento y recordar a los involucrados sus responsabilidades.
+Muchas familias y personas tienen dificultades para gestionar sus facturas del hogar de manera eficiente, ya que:
 
-Olvidos y desorganización: En hogares donde no hay una planificación adecuada, es fácil que las tareas se olviden o se realicen de manera descoordinada, lo que provoca acumulación de responsabilidades o, en el peor de los casos, discusiones.
+- No tienen una idea clara de su gasto promedio en servicios como electricidad, gas, agua, internet, entre otros.
 
-Por lo que los objetivos de chorely son : 
+- Es complicado identificar variaciones en los precios de los servicios a lo largo de los meses o años, lo que hace que sea difícil ajustar su presupuesto mensual.
 
-- Calcular una distribucion equitativa de las tareas domesticas 
+- No existe una previsión precisa de gastos futuros, por lo que puede haber sorpresas desagradables cuando llegan facturas más altas de lo esperado.
 
-- Hacer un seguimiento de las tareas realizadas por cada usuario , poniendo unas fechas limites para realizar cada una de las tareas , e incluyendo recordatorios en forma de notificaciones que sean enviadas si se acerca la fecha de cumplimiento de la tarea y esta no ha sido realizada . 
+- No pueden hacer comparaciones eficientes entre diferentes períodos del año o años anteriores para entender tendencias en su consumo.
 
-- Imponer una penalizacion a aquellos usuarios que no realicen sus tareas o que la realicen fuera del plazo establecido (esta penalizacion será acordada por todos los miembros del piso compartido )
+Para ello podemos calcular el gasto medio de estos servicios en funcion del mes , mostrar las posibles facturas(aproximadas) por medio de algoritmos que tengan en cuenta datos como la subida del ipc o las subidas de precios de estos servicios , asi evitar posibles sorpresas y mostrar las comparaciones con otros meses 
+
 
 ## Enlace a los archivos de configuracion 
 
