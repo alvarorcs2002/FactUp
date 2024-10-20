@@ -1,23 +1,16 @@
-# FactUp
+# Fitplan 
 
 ## Descipcion del problema 
 
-Gestión ineficiente y falta de previsibilidad en los gastos del hogar relacionados con las facturas de servicios básicos (agua, luz, gas, etc.).
+Muchas personas que comienzan a tomarse más en serio su salud y condición física, enfrentan varios desafíos a la hora de entrenar en el gimnasio de manera efectiva:
 
-Descripción:
+- Falta de conocimiento para crear rutinas personalizadas: A menudo, los usuarios no saben cómo diseñar una rutina adecuada para sus objetivos (pérdida de peso, aumento de masa muscular, tonificación, etc.), lo que lleva a entrenamientos poco efectivos o desequilibrados. 
 
-Muchas familias y personas tienen dificultades para gestionar sus facturas del hogar de manera eficiente, ya que:
+- Desorganización en los entrenamientos: Sin una estructura clara, muchos terminan repitiendo los mismos ejercicios una y otra vez o no llevan un seguimiento adecuado de los progresos. Esto puede hacer que los resultados se estanquen.
 
-- No tienen una idea clara de su gasto promedio en servicios como electricidad, gas, agua, internet, entre otros.
+- Incapacidad para ajustar la rutina según el progreso: Cuando alguien progresa en su nivel de condición física, la falta de un plan que evolucione con el tiempo puede llevar a una pérdida de eficiencia en los entrenamientos. Muchos no saben cuándo aumentar el peso, cambiar los ejercicios o ajustar los descansos.
 
-- Es complicado identificar variaciones en los precios de los servicios a lo largo de los meses o años, lo que hace que sea difícil ajustar su presupuesto mensual.
-
-- No existe una previsión precisa de gastos futuros, por lo que puede haber sorpresas desagradables cuando llegan facturas más altas de lo esperado.
-
-- No pueden hacer comparaciones eficientes entre diferentes períodos del año o años anteriores para entender tendencias en su consumo.
-
-Para ello podemos calcular el gasto medio de estos servicios en funcion del mes , mostrar las posibles facturas(aproximadas) por medio de algoritmos que tengan en cuenta datos como la subida del ipc o las subidas de precios de estos servicios , asi evitar posibles sorpresas y mostrar las comparaciones con otros meses 
-
+Esto se podria solucionar por medio de un planificador de rutinas que con datos como peso , altura y objetivo de usuario calcule una rutina personalizada para este usuario 
 
 ## Enlace a los archivos de configuracion 
 
